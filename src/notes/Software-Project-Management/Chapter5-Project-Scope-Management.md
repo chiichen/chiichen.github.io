@@ -4,7 +4,7 @@ title: 第5章 项目范围管理
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-12
 category:
   - 课程笔记

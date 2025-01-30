@@ -4,7 +4,7 @@ title: Chapter12 其它质量属性
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-16
 category:
   - 课程笔记

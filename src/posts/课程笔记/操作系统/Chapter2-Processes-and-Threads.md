@@ -4,7 +4,7 @@ title: Chapter2 Processes and Threads
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-04-03
 category:
   - 课程笔记

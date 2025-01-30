@@ -4,7 +4,7 @@ title: gRPC入门
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-06-01
 category:
   - 笔记

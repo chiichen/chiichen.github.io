@@ -4,7 +4,7 @@ title: 第1章 软件测试的基本概念
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-05-06
 category:
   - 课程笔记

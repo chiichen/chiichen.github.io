@@ -4,7 +4,7 @@ title: 第2章 软件测试技术
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-05-07
 category:
   - 课程笔记

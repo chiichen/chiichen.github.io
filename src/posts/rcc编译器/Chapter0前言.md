@@ -4,7 +4,7 @@ title: Chapter0 前言
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-11-03
 category:
   - 笔记

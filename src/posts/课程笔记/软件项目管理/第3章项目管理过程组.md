@@ -4,7 +4,7 @@ title: 第3章 项目管理过程组
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-10
 category:
   - 课程笔记

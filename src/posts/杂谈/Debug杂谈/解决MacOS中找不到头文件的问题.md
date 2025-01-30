@@ -4,7 +4,7 @@ title: 解决MacOS中找不到头文件的问题
 
 icon: page
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-02-29
 category:
   - 杂谈

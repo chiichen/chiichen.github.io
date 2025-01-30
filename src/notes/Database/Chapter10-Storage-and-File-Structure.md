@@ -4,7 +4,7 @@ title: Chapter10 Storage and File Structure
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-30
 category:
   - 课程笔记

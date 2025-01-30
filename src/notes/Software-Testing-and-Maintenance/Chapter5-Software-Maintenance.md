@@ -4,7 +4,7 @@ title: 第5章 软件测试维护
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-05-12
 category:
   - 课程笔记

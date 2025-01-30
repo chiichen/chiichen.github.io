@@ -4,7 +4,7 @@ title: 基于Ninja的代码Intellisense实践
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-02-26
 category:
   - 杂谈

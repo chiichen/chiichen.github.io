@@ -5,7 +5,7 @@ title: Edition 设置引起的一个 Rust 编译器报错
 
 icon: page
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-11-15
 category:
   - 杂谈

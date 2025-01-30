@@ -5,7 +5,7 @@ title: vscode+qemu开发Linux内核
 
 icon: page
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-10-28
 category:
   - 笔记

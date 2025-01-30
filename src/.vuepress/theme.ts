@@ -6,14 +6,14 @@ export default hopeTheme({
   hostname: "https://chiichen.github.io/",
 
   author: {
-    name: "Chiichen",
+    name: "chiichen",
   },
 
   iconAssets: "fontawesome",
   favicon: "/KissingCat.jpg",
   logo: "/KissingCat.jpg",
 
-  repo: "Chiichen/Chiichen.github.io",
+  repo: "chiichen/chiichen.github.io",
   docsBranch: "master",
   docsDir: "src",
 
@@ -23,7 +23,7 @@ export default hopeTheme({
       // Discord: "https://example.com",
       Email: "mailto:chiichen@qq.com",
       // Facebook: "https://example.com",
-      GitHub: "https://github.com/Chiichen",
+      GitHub: "https://github.com/chiichen",
       Gmail: "mailto:kejian2531693734@gmail.com",
       // Instagram: "https://example.com",
       // Lines: "https://example.com",
@@ -103,7 +103,7 @@ export default hopeTheme({
     comment: {
 
       provider: "Giscus",
-      repo: "Chiichen/Chiichen.github.io",
+      repo: "chiichen/chiichen.github.io",
       repoId: "R_kgDOKevcoA",
       category: "Announcements",
       categoryId: "DIC_kwDOKevcoM4CaDrF",

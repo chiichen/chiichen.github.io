@@ -4,7 +4,7 @@ title: DragonOS招新任务
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-02-25
 category:
   - DragonOS

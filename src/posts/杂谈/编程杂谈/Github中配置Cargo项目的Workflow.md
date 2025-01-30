@@ -3,7 +3,7 @@ title: Github 中配置 Cargo 项目的 Workflow
 # cover: /assets/images/cover1.jpg
 icon: page
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-11-07
 category:
   - 杂谈

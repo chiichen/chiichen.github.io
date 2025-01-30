@@ -4,7 +4,7 @@ title: Chapter4 Net Layer
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-06-18
 category:
   - 课程笔记

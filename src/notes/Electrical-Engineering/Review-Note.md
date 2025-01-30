@@ -4,7 +4,7 @@ title: 电工学复习笔记
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-06-10
 category:
   - 课程笔记

@@ -4,7 +4,7 @@ title: Chapter3 Introduction to SQL
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-27
 category:
   - 课程笔记

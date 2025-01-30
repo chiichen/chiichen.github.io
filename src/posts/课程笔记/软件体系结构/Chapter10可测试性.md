@@ -4,7 +4,7 @@ title: Chapter10 可测试性
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-16
 category:
   - 课程笔记

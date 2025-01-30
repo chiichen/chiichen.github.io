@@ -4,7 +4,7 @@ title: Chapter16 Recovery System
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-01-01
 category:
   - 课程笔记

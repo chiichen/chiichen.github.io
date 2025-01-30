@@ -4,7 +4,7 @@ title: Chapter0 绪论
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-12
 category:
   - 课程笔记

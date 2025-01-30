@@ -4,7 +4,7 @@ title: Chapter15 敏捷项目中的架构
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-18
 category:
   - 课程笔记

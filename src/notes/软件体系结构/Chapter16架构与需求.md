@@ -4,7 +4,7 @@ title: Chapter16 架构与需求
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-18
 category:
   - 课程笔记

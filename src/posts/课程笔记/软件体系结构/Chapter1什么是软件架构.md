@@ -4,7 +4,7 @@ title: Chapter1 什么是软件架构
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-13
 category:
   - 课程笔记

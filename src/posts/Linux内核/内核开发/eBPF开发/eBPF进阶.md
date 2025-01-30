@@ -3,7 +3,7 @@ title: eBPF进阶
 # cover: /assets/images/cover1.jpg
 icon: page
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-11-16
 category:
   - 杂谈

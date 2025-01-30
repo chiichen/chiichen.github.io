@@ -4,7 +4,7 @@ title: 第3章 软件测试过程
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-05-11
 category:
   - 课程笔记

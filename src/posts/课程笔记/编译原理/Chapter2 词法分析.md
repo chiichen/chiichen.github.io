@@ -4,7 +4,7 @@ title: Chapter2 词法分析
 
 icon: page
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-10-11
 category:
   - 课程笔记

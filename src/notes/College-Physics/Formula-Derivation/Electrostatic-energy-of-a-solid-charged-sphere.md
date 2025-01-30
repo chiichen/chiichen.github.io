@@ -4,7 +4,7 @@ title: 实心带电球体静电能的推导
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-03-01
 category:
   - 课程笔记
@@ -29,8 +29,8 @@ copyright: 转载请注明出处
 根据高斯定律，球体内外的电场分别为：
 
 $
-\mathbf{E} = 
-\begin{cases} 
+\mathbf{E} =
+\begin{cases}
 \frac{Q \mathbf{r}}{4 \pi \epsilon_0 a^3} = \frac{\rho \mathbf{r}}{3 \epsilon_0}, & (r < a) \\
 \frac{Q \mathbf{r}}{4 \pi \epsilon_0 r^3}, & (r \geq a)
 \end{cases}

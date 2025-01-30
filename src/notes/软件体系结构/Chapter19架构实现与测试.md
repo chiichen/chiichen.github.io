@@ -4,7 +4,7 @@ title: Chapter19 架构实现与测试
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-18
 category:
   - 课程笔记

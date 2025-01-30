@@ -4,7 +4,7 @@ title: 解决在VSCode里刷Leetcode的重定义问题
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-01-27
 category:
   - 杂谈

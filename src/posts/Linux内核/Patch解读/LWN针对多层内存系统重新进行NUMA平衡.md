@@ -4,7 +4,7 @@ title: LWN：针对多层内存系统重新进行NUMA平衡
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-10-30
 category:
   - 笔记

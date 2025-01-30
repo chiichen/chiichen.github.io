@@ -4,7 +4,7 @@ title: Chapter14 Transactions
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-31
 category:
   - 课程笔记

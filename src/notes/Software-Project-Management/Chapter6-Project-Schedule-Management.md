@@ -4,7 +4,7 @@ title: 第6章 项目进度管理
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-17
 category:
   - 课程笔记

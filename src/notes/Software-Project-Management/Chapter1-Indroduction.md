@@ -4,7 +4,7 @@ title: 第1章 项目管理概述
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-05
 category:
   - 课程笔记

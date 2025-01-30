@@ -4,7 +4,7 @@ title: Rust生命周期常见误区
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-10-24
 category:
   - 笔记

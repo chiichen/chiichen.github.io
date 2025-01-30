@@ -3,7 +3,7 @@ title: PARSEC测试套件 3.0 介绍和安装
 # cover: /assets/images/cover1.jpg
 icon: page
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-11-15
 category:
   - Linux内核
@@ -34,7 +34,7 @@ yum install gcc gcc-c++ m4 -y
 ### parsec3.0 下载和安装
 
 :::info
-以下内容是针对 Centos 等发行版的，Ubuntu 系统即 Debian 系(其它发行版没测过)请转至[Parsec-3.0](https://github.com/Chiichen/parsec-3.0)
+以下内容是针对 Centos 等发行版的，Ubuntu 系统即 Debian 系(其它发行版没测过)请转至[Parsec-3.0](https://github.com/chiichen/parsec-3.0)
 :::
 
 ```bash

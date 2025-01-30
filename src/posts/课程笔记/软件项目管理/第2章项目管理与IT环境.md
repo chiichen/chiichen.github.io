@@ -4,7 +4,7 @@ title: 第2章 项目管理与IT环境
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-12-07
 category:
   - 课程笔记

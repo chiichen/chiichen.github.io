@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: /KissingCat.jpg
-heroText: Chiichen's Blog
+heroText: chiichen's Blog
 tagline: A true master is an eternal student
 heroFullScreen: true
 projects:

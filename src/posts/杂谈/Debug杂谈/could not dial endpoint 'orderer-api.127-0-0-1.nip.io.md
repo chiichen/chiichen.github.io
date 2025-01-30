@@ -5,7 +5,7 @@ title: could not dial endpoint 'orderer-api.127-0-0-1.nip.io:8080' 问题解决
 
 icon: page
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-10-18
 category:
   - 杂谈

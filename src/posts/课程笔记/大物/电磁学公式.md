@@ -4,7 +4,7 @@ title: 电磁学公式
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-10-30
 category:
   - 课程笔记

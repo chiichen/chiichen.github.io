@@ -4,7 +4,7 @@ title: Chapter3 Memory Management
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-05-04
 category:
   - 课程笔记

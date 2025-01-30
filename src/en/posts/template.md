@@ -5,7 +5,7 @@ title: template
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: template
 category:
   -

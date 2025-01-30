@@ -3,7 +3,7 @@ title: decltype(auto)的应用
 # cover: /assets/images/cover1.jpg
 icon: page
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-10-19
 category:
   - C++

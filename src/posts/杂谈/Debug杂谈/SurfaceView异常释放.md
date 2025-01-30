@@ -5,7 +5,7 @@ title: Surface View 异常释放引起的 Segv Fault
 
 icon: page
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-04-03
 category:
   - 杂谈

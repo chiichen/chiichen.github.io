@@ -4,7 +4,7 @@ title: 第4章 软件测试管理
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-05-12
 category:
   - 课程笔记

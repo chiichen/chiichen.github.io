@@ -4,7 +4,7 @@ title: Rust中的Optional Trait
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-07-09
 category:
   - 笔记

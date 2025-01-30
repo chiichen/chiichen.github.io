@@ -3,7 +3,7 @@ title: eBPF开发入门
 # cover: /assets/images/cover1.jpg
 icon: page
 order: 1
-author: Chiichen
+author: chiichen
 date: 2023-11-15
 category:
   - 杂谈

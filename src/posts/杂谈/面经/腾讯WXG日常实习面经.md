@@ -4,7 +4,7 @@ title: 腾讯WXG日常实习面经
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-01-31
 category:
   - 面经

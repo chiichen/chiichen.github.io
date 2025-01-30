@@ -4,7 +4,7 @@ title: UML复习简记
 icon: page
 # This control sidebar order
 order: 1
-author: Chiichen
+author: chiichen
 date: 2024-01-06
 category:
   - 课程笔记
