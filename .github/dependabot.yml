@@ -9,3 +9,12 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+    groups:
+      vuepress:
+        patterns:
+          - "@vue/*"
+          - "vue-*"
+          - "vue"
+          - "@vuepress/*"
+          - "vuepress-*"
+          - "vuepress"
